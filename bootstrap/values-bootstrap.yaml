@@ -12,13 +12,13 @@ bootstrap-project:
   bindings: &binds
     # this labs-admins is the GROUP NAME in IDM
     - name: lribas
-      kind: user
+      kind: User
       role: admin
     - name: gsampaio
-      kind: user
+      kind: User
       role: admin
     - name: camedeir
-      kind: user
+      kind: User
       role: admin
     
     # - name: jenkins
