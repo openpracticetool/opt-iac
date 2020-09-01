@@ -1,0 +1,6 @@
+dependencies:
+- name: bootstrap-project
+  repository: https://redhat-cop.github.io/helm-charts
+  version: 0.0.7
+digest: sha256:cfa767fb8ad3fc8bf8fefb33a9f340efc7c37f4312caeef1731dea03431cc6c0
+generated: "2020-08-31T23:18:06.331681-03:00"
